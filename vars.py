@@ -28,8 +28,8 @@ web_driver_id = working_directory + r"\web_driver_id.json"
 #=============================================| Variáveis |=============================================#
 #=======================================================================================================#
 #Login Site Clash Of Clans
-email = "christian.carvalho@outlook.com"
-password = "C1h2r3i4$5"
+email = ""
+password = ""
 
 #Info Clans
 tag_cla = "#9V2Y"
