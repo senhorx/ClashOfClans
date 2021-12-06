@@ -19,10 +19,10 @@ url_my_ip = 'https://api.ipify.org/'
 web_browser_executavel = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
 #CHROME DRIVER
-web_driver = working_directory + r"\driver\chromedriver.exe"
+web_driver = working_directory + r"\chromedriver.exe"
 
 #SESSION
-web_driver_id = working_directory + r"\driver\web_driver_id.json"
+web_driver_id = working_directory + r"\web_driver_id.json"
 
 #=======================================================================================================#
 #=============================================| Variáveis |=============================================#
